@@ -3,6 +3,6 @@
 standard Text
 
 ## Überschrift
-[Überschrift] (#einf)
+[Überschrift](#einf)
 
 ### Überschrift<a name="einf"></a>
