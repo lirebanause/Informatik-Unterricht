@@ -2,6 +2,6 @@
 ## Unterüberschrift
 standard Text
 
-[Inhaltsverzeichnis] (#index)
+[Inhaltsverzeichnis] (#1)
 
-<a name="index"></a>Inhaltverzeichnis
+<a name="1"></a>Inhaltverzeichnis
