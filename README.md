@@ -2,4 +2,4 @@
 ## Unterüberschrift
 standard Text
 
-Inhaltsverzeichnis (#index)
+[Inhaltsverzeichnis] (#index)
