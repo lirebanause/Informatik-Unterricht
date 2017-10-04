@@ -8,4 +8,4 @@ standard Text
 
 Überschrift<a name="einf"></a>
 
-![bsp starlogtng](image/starlogotng_bsp.jpg "Screenshot von StarLogoTNG")
+![bsp starlogtng](images/starlogotng_bsp.jpg "Screenshot von StarLogoTNG")
