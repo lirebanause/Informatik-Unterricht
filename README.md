@@ -6,6 +6,6 @@ standard Text
 
 [Überschrift](#einf)
 
-Überschrift<a name="einf"></a>
+### Überschrift<a name="einf"></a>
 
 ![bsp starlogtng](images/starlogotng_bsp.jpg "Screenshot von StarLogoTNG")
