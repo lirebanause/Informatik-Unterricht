@@ -12,3 +12,9 @@ standard Text
 ### Einführung<a name="1"></a>
 
 ![bsp starlogtng](images/starlogotng_bsp.jpg "Screenshot von StarLogoTNG")
+
+
+
+## 1. Stunde
+
+Wir haben uns nach unserer unerwarteten Fusion als Team ersteinmal damit vertraut gemacht, 
